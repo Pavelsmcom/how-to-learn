@@ -1,9 +1,0 @@
-{
-  "workbench.settings.editor": "json",
-  "editor.wordWrapColumn": 240,
-  "editor.wordWrap": "wordWrapColumn",
-  "prettier.printWidth": 240,
-  "prettier.proseWrap": "never",
-  "prettier.useTabs": true,
-  "editor.tabSize": 2
-}
