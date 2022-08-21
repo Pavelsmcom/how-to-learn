@@ -1,0 +1,6 @@
+.video__iframes-cell{
+  display:inline;
+}
+.video__iframes-cell:not(:last-child) {
+  margin-right: 20px;
+}
