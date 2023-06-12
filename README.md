@@ -15,7 +15,7 @@
 
 Клонировать репозиторий:
 
-    git clone https://github.com/Pavelsmcom/react-mesto-api-full-gha
+    git clone https://github.com/Pavelsmcom/how-to-learn.git
 
 Запустить index.html 
 
